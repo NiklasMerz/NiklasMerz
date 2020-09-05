@@ -13,3 +13,5 @@ Stuff I like:
 * [Ionic Framework](https://github.com/ionic-team/ionic-framework)
 * [Perkeep](https://github.com/perkeep/perkeep)
 * Some projects I play around: https://github.com/Merzlabs
+
+[![](https://raw.githubusercontent.com/NiklasMerz/NiklasMerz/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
