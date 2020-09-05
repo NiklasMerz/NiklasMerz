@@ -15,3 +15,5 @@ Stuff I like:
 * Some projects I play around: https://github.com/Merzlabs
 
 [![](https://raw.githubusercontent.com/NiklasMerz/NiklasMerz/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/NiklasMerz/NiklasMerz/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
