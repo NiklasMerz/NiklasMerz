@@ -6,6 +6,11 @@ Please check out my [blog](https://blog.merzlabs.com/).
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Autostart python scripts on boot with systemd](https://blog.merzlabs.com/posts/python-autostart-systemd/)
+- [A tale of a Cordova developer fighting with WebViews on iOS](https://blog.merzlabs.com/posts/webview-history/)
+- [Using Github Actions to archive Netlify Analytics data](https://blog.merzlabs.com/posts/netlify-analytics-archive/)
+- [How to read and save files in JavaScript starting with Chrome 86](https://blog.merzlabs.com/posts/native-file-system/)
+- [Struggling with motivation in programming](https://blog.merzlabs.com/posts/motivation-and-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 Stuff I like:
