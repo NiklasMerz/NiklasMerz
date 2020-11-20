@@ -4,6 +4,10 @@ I work a bit on Apache Cordova and other stuff.
 
 Please check out my [blog](https://blog.merzlabs.com/).
 
+# 📩 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 Stuff I like:
 
 * [Apache Cordova](https://cordova.apache.org/)
