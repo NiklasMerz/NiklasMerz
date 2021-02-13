@@ -6,11 +6,11 @@ Please check out my [blog](https://blog.merzlabs.com/).
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux on ChromeOS (Crostini) is now usable for developers](https://blog.merzlabs.com/posts/crostini-now-usable/)
 - [Working with Git without actually getting it](https://blog.merzlabs.com/posts/getting-git/)
 - [Install pdftk on CentOS 7 based shared hosting](https://blog.merzlabs.com/posts/pdftk-shared-hosting/)
 - [Autostart python scripts on boot with systemd](https://blog.merzlabs.com/posts/python-autostart-systemd/)
 - [A tale of a Cordova developer fighting with WebViews on iOS](https://blog.merzlabs.com/posts/webview-history/)
-- [Using Github Actions to archive Netlify Analytics data](https://blog.merzlabs.com/posts/netlify-analytics-archive/)
 <!-- BLOG-POST-LIST:END -->
 
 Stuff I like:
