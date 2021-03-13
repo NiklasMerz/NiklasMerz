@@ -6,11 +6,11 @@ Please check out my [blog](https://blog.merzlabs.com/).
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DB Regio Data Hack - Machine Learning in der Cloud](https://world.hey.com/merz/db-regio-data-hack-machine-learning-in-der-cloud-2b4e90c3)
+- [DB Regio Data Hack - Endlich bekomme ich mal Daten](https://world.hey.com/merz/db-regio-data-hack-endlich-bekomme-ich-mal-daten-1a697ce0)
+- [Hello world](https://world.hey.com/merz/hello-world-9cf93a2a)
 - [Linux on ChromeOS (Crostini) is now usable for developers](https://blog.merzlabs.com/posts/crostini-now-usable/)
 - [Working with Git without actually getting it](https://blog.merzlabs.com/posts/getting-git/)
-- [Install pdftk on CentOS 7 based shared hosting](https://blog.merzlabs.com/posts/pdftk-shared-hosting/)
-- [Autostart python scripts on boot with systemd](https://blog.merzlabs.com/posts/python-autostart-systemd/)
-- [A tale of a Cordova developer fighting with WebViews on iOS](https://blog.merzlabs.com/posts/webview-history/)
 <!-- BLOG-POST-LIST:END -->
 
 Stuff I like:
