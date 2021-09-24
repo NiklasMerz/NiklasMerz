@@ -17,7 +17,6 @@ Stuff I like:
 
 * [Apache Cordova](https://cordova.apache.org/)
 * My most sucessful personal Cordova [plugin](https://github.com/NiklasMerz/cordova-plugin-fingerprint-aio)
-* My work on Cordova at my day job: https://github.com/GEDYSIntraWare
 * [Apache PLC4X](https://github.com/apache/plc4x)
 * [Ionic Framework](https://github.com/ionic-team/ionic-framework)
 * [Perkeep](https://github.com/perkeep/perkeep)
