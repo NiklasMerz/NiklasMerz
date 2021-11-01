@@ -6,11 +6,11 @@ Please check out my [blog](https://blog.merzlabs.com/).
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gifts From Open Source](https://blog.merzlabs.com/posts/my-oss/)
 - [Autostart JavaScript npm packages on boot with systemd](https://blog.merzlabs.com/posts/js-autostart-systemd/)
 - [Arduino convert int to char](https://blog.merzlabs.com/posts/arduino-int-const-char-conversion/)
 - [I wish more problems were like the big boat stuck in the canal](https://world.hey.com/merz/i-wish-more-problems-were-like-the-big-boat-stuck-in-the-canal-f6d65d5d)
 - [DB Regio Data Hack - Machine Learning in der Cloud](https://world.hey.com/merz/db-regio-data-hack-machine-learning-in-der-cloud-2b4e90c3)
-- [DB Regio Data Hack - Endlich bekomme ich mal Daten](https://world.hey.com/merz/db-regio-data-hack-endlich-bekomme-ich-mal-daten-1a697ce0)
 <!-- BLOG-POST-LIST:END -->
 
 Stuff I like:
