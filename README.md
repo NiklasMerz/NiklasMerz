@@ -6,11 +6,10 @@ Please check out my [blog](https://blog.merzlabs.com/).
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The 4-day-workweek is the best change in my career so far](https://blog.merzlabs.com/posts/four-day-workweek/)
-- [The state of Apache Cordova in 2022 - My personal take](https://blog.merzlabs.com/posts/cordova-2022/)
-- [Getting a CVE number for a security issue in an open source project](https://blog.merzlabs.com/posts/oss-vulnerability/)
-- [How to make Cordova plugin development suck a little less](https://blog.merzlabs.com/posts/cordova-plugin-development/)
-- [Gifts From Open Source](https://blog.merzlabs.com/posts/my-oss/)
+- [I wish more problems were like the big boat stuck in the canal](https://world.hey.com/merz/i-wish-more-problems-were-like-the-big-boat-stuck-in-the-canal-f6d65d5d)
+- [DB Regio Data Hack - Machine Learning in der Cloud](https://world.hey.com/merz/db-regio-data-hack-machine-learning-in-der-cloud-2b4e90c3)
+- [DB Regio Data Hack - Endlich bekomme ich mal Daten](https://world.hey.com/merz/db-regio-data-hack-endlich-bekomme-ich-mal-daten-1a697ce0)
+- [Hello world](https://world.hey.com/merz/hello-world-9cf93a2a)
 <!-- BLOG-POST-LIST:END -->
 
 Stuff I like:
