@@ -6,11 +6,11 @@ Please check out my [blog](https://blog.merzlabs.com/).
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [You cannot solve problems in open source by throwing money at them](/posts/help-oss-projects/)
-- [The 4-day-workweek is the best change in my career so far](/posts/four-day-workweek/)
-- [The state of Apache Cordova in 2022 - My personal take](/posts/cordova-2022/)
-- [Getting a CVE number for a security issue in an open source project](/posts/oss-vulnerability/)
-- [How to make Cordova plugin development suck a little less](/posts/cordova-plugin-development/)
+- [You cannot solve problems in open source by throwing money at them](https://blog.merzlabs.com/posts/help-oss-projects/)
+- [The 4-day-workweek is the best change in my career so far](https://blog.merzlabs.com/posts/four-day-workweek/)
+- [The state of Apache Cordova in 2022 - My personal take](https://blog.merzlabs.com/posts/cordova-2022/)
+- [Getting a CVE number for a security issue in an open source project](https://blog.merzlabs.com/posts/oss-vulnerability/)
+- [How to make Cordova plugin development suck a little less](https://blog.merzlabs.com/posts/cordova-plugin-development/)
 <!-- BLOG-POST-LIST:END -->
 
 Stuff I like:
