@@ -13,7 +13,7 @@ Please check out my [blog](https://blog.merzlabs.com/).
 - [You cannot solve problems in open source by throwing money at them](https://blog.merzlabs.com/posts/help-oss-projects/)
 <!-- BLOG-POST-LIST:END -->
 
-Stuff I like:
+Contributions I'm most proud of:
 
 * [Apache Cordova](https://cordova.apache.org/)
 * My most sucessful personal Cordova [plugin](https://github.com/NiklasMerz/cordova-plugin-fingerprint-aio)
