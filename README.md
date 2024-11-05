@@ -6,11 +6,11 @@ Check out my [blog](https://blog.merzlabs.com/).
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why you should care about WebViews](https://blog.merzlabs.com/posts/care-about-webviews/)
 - [Cordova is still not dead in 2024 - My personal take](https://blog.merzlabs.com/posts/cordova-2024/)
 - [The Cordova community survey](https://blog.merzlabs.com/posts/cordova-survey/)
 - [It&#39;s all about the community - Open Source Personas](https://blog.merzlabs.com/posts/open-source-personas/)
 - [I found a bug in an open source project - What to do next?](https://blog.merzlabs.com/posts/open-source-fix/)
-- [You cannot solve problems in open source by throwing money at them](https://blog.merzlabs.com/posts/help-oss-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 Contributions I'm most proud of:
