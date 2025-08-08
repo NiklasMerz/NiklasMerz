@@ -16,6 +16,8 @@ Check out my [blog](https://blog.merzlabs.com/).
 Contributions I'm most proud of:
 
 * [Apache Cordova](https://cordova.apache.org/)
+* [caniwebview.com](https://caniwebview.com)
+* [W3C WebView Community Group](https://www.w3.org/community/webview/)
 * My most sucessful personal Cordova [plugin](https://github.com/NiklasMerz/cordova-plugin-fingerprint-aio)
 * [Apache PLC4X](https://github.com/apache/plc4x)
 * [Ionic Framework](https://github.com/ionic-team/ionic-framework)
