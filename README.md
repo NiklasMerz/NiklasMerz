@@ -1,6 +1,6 @@
 Hi I'm Niklas
 
-I work a bit on Apache Cordova and other open source projects. Currently I'm also Co-Chair of the [W3C WebView Community Group](https://github.com/WebView-CG)
+WebViews is my thing with Apache Cordova and I'm Co-Chair of the [W3C WebView Community Group](https://github.com/WebView-CG). I also work with Django and other open source projects.
 
 Check out my [blog](https://blog.merzlabs.com/).
 
