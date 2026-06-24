@@ -6,7 +6,7 @@ Check out my [blog](https://blog.merzlabs.com/).
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Web is more than](https://blog.merzlabs.com/posts/the-web-is-more/)
+- [The Web is more](https://blog.merzlabs.com/posts/the-web-is-more/)
 - [Servo is almost ready for Cordova, but there are two missing pieces](https://blog.merzlabs.com/posts/cordova-servo/)
 - [Can another WebView improve all of them?](https://blog.merzlabs.com/posts/open-webview/)
 - [WebViews at TPAC 2025 - Plenty of Opportunities](https://blog.merzlabs.com/posts/webview-tpac2025/)
