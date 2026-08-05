@@ -17,6 +17,7 @@ Contributions:
 
 * [Apache Cordova](https://cordova.apache.org/)
 * [caniwebview.com](https://caniwebview.com)
+* [webcompat.dev](https://webcompat.dev)
 * [W3C WebView Community Group](https://www.w3.org/community/webview/)
 * [Cordova fingerprint plugin](https://github.com/NiklasMerz/cordova-plugin-fingerprint-aio)
 * [Apache PLC4X](https://github.com/apache/plc4x)
