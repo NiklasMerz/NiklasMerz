@@ -2,7 +2,10 @@ Hi I'm Niklas
 
 WebViews is my thing with Apache Cordova and I'm Co-Chair of the [W3C WebView Community Group](https://github.com/WebView-CG). I also work with Django and other open source projects.
 
-Check out my [blog](https://blog.merzlabs.com/).
+Check out:
+
+- [Blog](https://blog.merzlabs.com/).
+- [Talks](https.//niklas.merz.dev/talks)
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
