@@ -28,6 +28,8 @@ Contributions:
 * [Perkeep](https://github.com/perkeep/perkeep)
 * Some projects I play around: https://github.com/Merzlabs
 
+<!--
 [![](https://raw.githubusercontent.com/NiklasMerz/NiklasMerz/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NiklasMerz)](https://github.com/ryo-ma/github-profile-trophy)
+-->
